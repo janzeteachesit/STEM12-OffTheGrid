@@ -22,6 +22,10 @@ try:
 except ValueError:
     print("Not possible with these gears")   
 
+# gearbox test 1
+# g1-g2a,g2b-3
+
+
 
 # to do; X: = completed
 # --------
